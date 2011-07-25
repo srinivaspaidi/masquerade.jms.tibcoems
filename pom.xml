@@ -22,7 +22,27 @@
 		<!-- Tibco EMS JARs (dependency embedded in bundle) -->
 		<dependency>
 			<groupId>com.tibco</groupId>
+			<artifactId>tibcrypt</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.tibco</groupId>
 			<artifactId>tibjms</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.tibco</groupId>
+			<artifactId>tibjmsadmin</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.tibco</groupId>
+			<artifactId>tibjmsapps</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.tibco</groupId>
+			<artifactId>tibrvjms</artifactId>
 			<version>1.0</version>
 		</dependency>
 	</dependencies>
